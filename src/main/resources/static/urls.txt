@@ -1,0 +1,6 @@
+http://localhost:8080/jwt/users                     GET: getting all users
+http://localhost:8080/jwt/users                     POST: saving a new user
+http://localhost:8080/jwt/users/roles               POST: saving a new role
+http://localhost:8080/jwt/users/{userId}/{roleName} POST: adding a role to a user
+http://localhost:8080/jwt-login
+
